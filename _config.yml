@@ -1,0 +1,42 @@
+theme: jekyll-theme-hacker
+title: "D4n3x Blog"
+
+locale                   : "en-US"
+title                    : "D4n3x Blog"
+title_separator          : "-"
+name                     : "D4nex"
+description              : "Blog dedicado a mi aprendizaje sobre Pentesting, Programacion y Reversing"
+url                      : "https://id4nex.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "iD4nex/id4nex.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo                     : "https://avatars.githubusercontent.com/u/76569311?s=400&u=4df44d6472fa779c006da24f6c9e1c3325093aee&v=4"
+
+author:
+  name             : "iD4nex"
+  avatar           : "https://avatars.githubusercontent.com/u/76569311?s=400&u=4df44d6472fa779c006da24f6c9e1c3325093aee&v=4"
+  bio              : "Malware Reverse Engineer/Python Dev"
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "iD4nex"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
